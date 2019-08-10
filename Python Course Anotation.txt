@@ -1,0 +1,40 @@
+dir() para ver todos os métodos que podem ser ultilizados no objeto
+
+help() descreve o objeto ou formula
+
+just intall pyinstaller https://pypi.org/project/PyInstaller/
+and open de achirve in cmd with: pyinstaller nome_do_arquivo.py
+
+Duas coisas novas sobre python!
+1 - dá pra usar um marcador com chaves {} em vez de %
+2 - pode-se usar um .format("str") para colocar no mesmo formato eu acho
+
+Funções abaixo retornarm valor true ou false
+
+.isspace() => para saber se tem somente espaços
+.isnumeric() => para saber se tem números
+.isalpha() => para saber se é alfabético
+.isalnum() => para saber se é alfanúmérico
+.isupper() => para saber se é maiusculo
+.islower() => para saber se é minusculo
+.islower() => para saber se é minusculo
+.istitle() => para saber se é capitalizada
+
+1982 - guido van hossum - criador do python
+
+----------------------------------------------------------------------
+Who - quem 
+Whose - de quem 
+How - Como
+When - quando
+Which - Qual
+Towards - em direção
+Near -perto
+spring - primavera
+summer - verão
+fall -outono
+winter - inverno
+wears -veste
+bit - pouco 
+meal -refeição
+Over time - com o tempo
